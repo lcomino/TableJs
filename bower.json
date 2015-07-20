@@ -1,0 +1,23 @@
+{
+  "name": "TableJs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lcomino/TableJs",
+  "description": "Criar tabelas dinamicamente",
+  "keywords": [
+    "table",
+    "string",
+    "bind",
+    "repeater"
+  ],
+  "authors": [
+    "@lcomino"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
