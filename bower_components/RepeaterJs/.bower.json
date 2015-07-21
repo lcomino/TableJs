@@ -1,0 +1,36 @@
+{
+  "name": "RepeaterJs",
+  "homepage": "https://github.com/lcomino/Repeater",
+  "description": "Feito para reptir qualquer coisa! Rows, divs, listas, links, imagens. Tudo utilizando um objeto JS! (Json)",
+  "main": "repeater.js",
+  "keywords": [
+    "repeater",
+    "javascript"
+  ],
+  "authors": [
+    "@lcomino"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "StringJs": "git@github.com:lcomino/StringJs.git",
+    "RepeaterJs": "git@github.com:lcomino/Repeater.git",
+    "ObjectJs": "git@github.com:lcomino/ObjectJs.git"
+  },
+  "_release": "fcf4262526",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fcf4262526a3e7876e53678bd6948bea95c1cae4"
+  },
+  "_source": "git@github.com:lcomino/Repeater.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:lcomino/Repeater.git",
+  "_direct": true
+}

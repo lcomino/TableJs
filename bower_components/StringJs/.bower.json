@@ -1,0 +1,30 @@
+{
+  "name": "StringJs",
+  "homepage": "https://github.com/lcomino/StringJs",
+  "description": "Manipulando Strings com JS",
+  "main": "string.js",
+  "keywords": [
+    "string",
+    "javascript"
+  ],
+  "authors": [
+    "@lcomino"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "e3ae3c814f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e3ae3c814f3d91add9ffbe39e145f20c31aac729"
+  },
+  "_source": "git@github.com:lcomino/StringJs.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:lcomino/StringJs.git"
+}

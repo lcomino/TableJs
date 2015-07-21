@@ -1,0 +1,31 @@
+{
+  "name": "ObjectJs",
+  "homepage": "https://github.com/lcomino/ObjectJs",
+  "authors": [
+    "@lcomino"
+  ],
+  "description": "Object JS, manipulando objetos javasciprt, arrays, etc",
+  "main": "object.js",
+  "keywords": [
+    "objeto",
+    "javascript",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "8daa8a3f86",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8daa8a3f8685348146ae569a6b050d007f4d98d7"
+  },
+  "_source": "git@github.com:lcomino/ObjectJs.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:lcomino/ObjectJs.git"
+}

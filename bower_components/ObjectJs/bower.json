@@ -1,0 +1,23 @@
+{
+  "name": "ObjectJs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lcomino/ObjectJs",
+  "authors": [
+    "@lcomino"
+  ],
+  "description": "Object JS, manipulando objetos javasciprt, arrays, etc",
+  "main": "object.js",
+  "keywords": [
+    "objeto",
+    "javascript",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
